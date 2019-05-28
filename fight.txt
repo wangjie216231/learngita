@@ -3,3 +3,4 @@ newfile
 
 fightbrancha
 fightbranchb
+a
