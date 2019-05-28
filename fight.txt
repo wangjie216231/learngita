@@ -1,3 +1,5 @@
 fightmaster
+newfile
+
 fightbrancha
 fightbranchb
